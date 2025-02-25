@@ -93,3 +93,27 @@ body{
     gap: 10px;
     
 }
+
+
+
+/* media query */
+
+@media (max-width: 800px) {
+    .container .esquerda {
+        display: none;
+    }
+
+    .container .direita{
+        width: 100%;
+    }
+}
+
+@media (max-width: 388px){
+       .container .direita .meio{
+        width: 90%;
+       }
+       
+       .container .direita .fim{
+        width: 90%;
+       }
+}

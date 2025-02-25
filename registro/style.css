@@ -107,5 +107,15 @@ body{
     border-radius: 50%;
 }
 
+/* media query */
 
+@media ( max-width: 736px){
+      .container .esquerda{
+        display: none;
+      }
+
+      .container .direita{
+        width: 100%;
+      }
+}
     
