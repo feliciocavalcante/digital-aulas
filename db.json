@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "feliciospfc@gmail.com",
+      "views": 102030
+    },
+    {
+      "id": "2",
+      "email": "feliciofeitosa@gmail.com",
+      "views": 102030
+    }
+  ]
+}
